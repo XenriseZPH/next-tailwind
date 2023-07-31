@@ -12,11 +12,16 @@
     "prepare": "husky install"
   },
   "dependencies": {
+    "class-variance-authority": "^0.7.0",
+    "clsx": "^2.0.0",
+    "lucide-react": "^0.263.1",
     "next": "^13.2.4",
     "react": "^18.2.0",
     "react-alert": "^7.0.3",
     "react-dom": "^18.2.0",
-    "react-icons": "^4.8.0"
+    "react-icons": "^4.8.0",
+    "tailwind-merge": "^1.14.0",
+    "tailwindcss-animate": "^1.0.6"
   },
   "devDependencies": {
     "@types/node": "18.15.1",
